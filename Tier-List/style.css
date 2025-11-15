@@ -75,6 +75,7 @@ body {
     flex-wrap: wrap;
     border-radius: 8px; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    
 }
 
 .tier-label {
@@ -165,3 +166,4 @@ body {
     background-color: #818181;
     color: var(--color-text-dark);
 }
+
